@@ -1,0 +1,7 @@
+.form-cadastro_input {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: space-between;
+    width: 500px;
+}
